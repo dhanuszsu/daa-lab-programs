@@ -68,4 +68,3 @@ gcc 02B_bubble_sort.c -o bubble_sort
 
 The programs are intentionally kept separate instead of putting everything into one large file. This makes it easier to practice, test, and submit individual experiments.
 
-> Note: The problem statements and grouping are based on the supplied Rajalakshmi Engineering College CS23331 DAA Lab Manual. Some statements in the manual are brief, so the code uses the input/output information given there and a straightforward implementation of the stated technique.
